@@ -1,0 +1,64 @@
+
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 1.3rem;
+}
+
+img{
+  width: 300px;
+  height: auto;
+}
+
+button{
+  width: 100%;
+  margin: 10px 0;
+  height: 60px;
+  border: 0;
+  background-color: #c49a6c;
+  border-radius: 12px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.3rem;
+}
+
+button:hover{
+  background-color: #dbb284;
+}
+
+button:active{
+  background-color: #dbb284;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+h2{
+  font-size: 1.5rem;
+}
+
+.main{
+  text-align: center;
+  margin: 50px auto;
+}
+
+.btn-links{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.profile-img{
+  border-radius: 100%;
+}
+
+.about-me{
+  margin: 30px auto;
+  width: 50%;
+}
+
+.name{
+  display: inline-block;
+}
+.role{
+  display: inline-block;
+  margin-left: 20px
+}
